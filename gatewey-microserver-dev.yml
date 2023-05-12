@@ -1,1 +1,5 @@
-gateway.property= gateway Profile Dev
+  spring:
+    datasource:
+      url: jdbc:postgresql://localhost:5432/users
+      username: siteruser
+      password: 123456789
