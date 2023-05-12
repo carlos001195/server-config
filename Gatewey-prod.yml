@@ -1,1 +1,1 @@
-spring.property= gateway Profile prod
+gateway.property= gateway Profile prod
