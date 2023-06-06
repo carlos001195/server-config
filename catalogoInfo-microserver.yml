@@ -1,7 +1,7 @@
   spring:
     datasource:
       driverClassName: org.postgresql.Driver
-      url: jdbc:postgresql://192.168.1.7:5432/sitercatalog
+      url: jdbc:postgresql://192.168.1.72:5432/sitercatalog
       username: sitercatalog
       password: 123456789
 
